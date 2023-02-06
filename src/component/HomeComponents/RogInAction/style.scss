@@ -1,0 +1,30 @@
+.roginaction{
+    h2{
+        display: flex;
+        justify-content: center;
+        color: rgb(0, 0, 0);
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .roginaction_therecards{
+        width: 100%;
+        display: flex;
+        .roginaction_card{
+            width: 30%;
+            height: 200px;
+            img{
+                width: 100%;
+                height: 200px;
+            }
+        }
+       
+    }
+    h6{
+        font-size: 20px;
+        color: red;
+        text-decoration: underline;
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        }
+}
